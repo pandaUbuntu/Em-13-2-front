@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Нові функції",
+    "shortText": "Ознайомтесь з оновленням",
+    "linkText": "Детальніше",
+    "link": "/features"
+  },
+  {
+    "id": 2,
+    "title": "Навчальні матеріали",
+    "shortText": "Швидкий старт для вас",
+    "linkText": "Перейти",
+    "link": "/learn"
+  },
+  {
+    "id": 3,
+    "title": "Підтримка",
+    "shortText": "Зв'яжіться з нами",
+    "linkText": "Контакти",
+    "link": "/support"
+  },
+  {
+    "id": 4,
+    "title": "Про компанію",
+    "shortText": "Дізнайтесь про місію",
+    "linkText": "Читати",
+    "link": "/about"
+  },
+  {
+    "id": 5,
+    "title": "Почати зараз",
+    "shortText": "Зареєструйтесь безкоштовно",
+    "linkText": "Старт",
+    "link": "/signup"
+  },
+  {
+    "id": 6,
+    "title": "Підтримка",
+    "shortText": "Зв'яжіться з нами",
+    "linkText": "Контакти",
+    "link": "/support"
+  },
+  {
+    "id": 7,
+    "title": "Про компанію",
+    "shortText": "Дізнайтесь про місію",
+    "linkText": "Читати",
+    "link": "/about"
+  },
+  {
+    "id": 8,
+    "title": "Почати зараз",
+    "shortText": "Зареєструйтесь безкоштовно",
+    "linkText": "Старт",
+    "link": "/signup"
+  }
+]
